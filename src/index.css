@@ -15,7 +15,8 @@ main{
   justify-content: center;
   align-items: center;
   padding: 5rem;
-  max-width: 600px;
+  max-width: 640px;
+  text-align: center;
 }
 
 main h1{
@@ -51,13 +52,13 @@ main h1{
 
 .review h3{
   font-size: 1.3rem;
-  color: rgb(0, 252, 168);
+  color: rgb(37, 174, 129);
 }
 
 
 img{
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
   border-radius: 50%;
 }
