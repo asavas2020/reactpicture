@@ -1,11 +1,11 @@
-import {Revievs} from "./Reviews"
-// import './App.css';
+import { Reviews } from "./Reviews";
 
 function App() {
   return (
-    <div className="App">
-     <Revievs/>
-    </div>
+    <main>
+      <h1>Our Reviews</h1>
+      <Reviews/>
+    </main>
   );
 }
 
